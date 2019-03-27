@@ -1,0 +1,2 @@
+install ngrok tidak bisa
+sudo npm i -g ngrok --unsafe-perm=true --allow-root

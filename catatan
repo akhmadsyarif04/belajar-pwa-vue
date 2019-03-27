@@ -1,0 +1,4 @@
+bingung ketika kerja di serviceWorker
+yang diserve adalah pada folder /dist
+folder dist/ akan dibikin ketika npm run build setelah instalasi  sw-precache-webpack-plugin
+setelah itu ikutin cara seperti tutorial
